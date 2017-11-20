@@ -13,3 +13,5 @@ thinkjs new thinkjs_demo -t
 ```
 
 用 `-t` 创建完后的项目会在根目录生成 tsconfig.json, 后续的命令会对应生成 .ts 的文件。
+
+win10 vscode  thinkjs版本2.1.1的情况下 并不会生成typescript项目
